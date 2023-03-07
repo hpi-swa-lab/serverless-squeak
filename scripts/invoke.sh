@@ -1,0 +1,1 @@
+awslocal lambda invoke --function-name squeak-runtime --payload '{"text":"Hello"}' response.txt --cli-binary-format raw-in-base64-out

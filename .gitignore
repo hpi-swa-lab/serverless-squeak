@@ -1,0 +1,6 @@
+squeak
+*.log
+*.zip
+squeak.changes
+squeak.image
+.DS_Store
