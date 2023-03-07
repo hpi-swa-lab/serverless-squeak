@@ -1,0 +1,14 @@
+{
+	"category" : "Batwing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FunctionRegistry",
+	"pools" : [
+		 ],
+	"super" : "Behavior",
+	"type" : "normal" }
