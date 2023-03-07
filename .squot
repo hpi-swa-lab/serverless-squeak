@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'src/Batwing.package' : #SquotCypressCodeSerializer
+	'src/Batwing.package' : #SquotCypressCodeSerializer,
+	'src/BaselineOfBatwing.package' : #SquotCypressCodeSerializer
 }

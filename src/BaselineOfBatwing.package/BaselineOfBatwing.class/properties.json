@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBatwing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBatwing",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
